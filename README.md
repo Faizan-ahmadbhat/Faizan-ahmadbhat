@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Faizan-ahmadbhat/Faizan-ahmadbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎯 My Goal
+
+To become comfortable with Git and use it effectively in real-world projects and team environments.
